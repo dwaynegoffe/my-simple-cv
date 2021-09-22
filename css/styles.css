@@ -1,0 +1,170 @@
+body{
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+
+}
+.profileimage{
+  width: 15%;
+  border-radius: 100%;
+}
+.visitp{
+  font-size: 20px;
+  color: grey;
+}
+#title{
+  background-color: #3080E3;
+padding: 3% 10%;
+width: 100%;
+height: 100%;
+background-image: linear-gradient(to top left, #3080E3 50%, white 50%);
+}
+#About{
+  padding: 50px 0 20px;
+}
+.mysql{
+  border-radius: 100%;
+  width: 49px;
+}
+.cplus{
+  border-radius: 100%;
+  width: 79px;
+}
+.python{
+  border-radius: 100%;
+  width: 47px;
+}
+.carousel-item{
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+h1{
+  margin-top: 2%;
+  font-family: 'Great Vibes', cursive;
+  color: #88FFF7;
+  font-size: 4rem;
+  font-weight: bold;
+}
+h1:hover{
+  color: #FFEBA1;
+}
+hr{
+  width: 10%;
+  border: dotted;
+  color: #D7E9F7;
+  border-bottom: none;
+}
+.fa-html5 {
+  color: #DD4B25;
+}
+.fa-css3-alt{
+  color: #2658E5;
+}
+.fa-bootstrap{
+  color: #6F10EF;
+}
+.fa-js-square{
+  color: #EFD81D;
+}
+.animatedicon{
+  width: 20%;
+  border-radius: 100%;
+  padding: 10px;
+}
+
+.aboutmeicon{
+  width: 44%;
+  margin-right: 20px;
+}
+.nav-tabs:hover{
+  color: green;
+}
+
+@media (max-width:1028px) {
+.aboutmeicon{
+  float: none;
+}
+h1{
+  font-size: 2.5rem;
+  color: #FFF338;
+}
+.profileimage{
+  float: left;
+  margin-right: 50px;
+}
+
+}
+
+
+h3{
+  color: #7EB5A6;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 30px;
+}
+@media (max-width:1028px) {
+h3{
+  font-size: 26px;
+}
+h4{
+  font-size: 26px;
+}
+
+}
+h4{
+  color: #7EB5A6;
+  font-size: 25px;
+}
+.webp{
+  font-family: 'Ubuntu', sans-serif;
+  color: #88FFF7;
+  font-size: 25px;
+}
+.webp:hover{
+  color: #D9DD6B;
+}
+@media (max-width:1028px) {
+.webp{
+  font-size: 18px;
+  margin-left: 10px;
+}
+}
+#skills{
+  margin-top: 30px;
+}
+#contactsec{
+  padding: 40px 0 20px;
+  background-color: #3080E3;
+
+}
+.getintouch{
+  padding: 9px 0;
+  color: #FFEBA1;
+}
+.getintouch:hover{
+  color: #FFF338;
+}
+.sec-two{
+  color: #AAAAAA;
+}
+.aboutp{
+  color: #AAAAAA;
+  text-align: left;
+  line-height: 2;
+}
+.about-row{
+  width: 50%;
+  margin: auto;
+}
+#bottomcontainer{
+  padding: 50px 0 20px;
+}
+.bottomicon{
+  margin: 10px 10px;
+}
+.Copyright{
+  margin-top: 20px;
+  color: grey;
+}
+.btn{
+  border-radius: 30px;
+}
